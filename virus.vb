@@ -5,13 +5,13 @@ this file infector is composed of two components, the pseudo-header and the viru
 it infects exe files in its own directory in this manner...
 
 
--------------						                                -----------------
-pseudo-header		           -------------		              pseudo-header
+-------------						  -----------------
+pseudo-header		    -------------		    pseudo-header
 -------------   -------->      host  	    -------->     -----------------
-virus			                 -------------                       host
--------------						                                -----------------
-							                                                virus
-							                                          -----------------
+virus			   -------------                       host
+-------------						  -----------------
+								virus
+							  -----------------
 
 
 
